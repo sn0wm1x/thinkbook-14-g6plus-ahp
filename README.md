@@ -8,9 +8,9 @@ These assets work for the Lenovo ThinkBook 14 G6+ AHP (R7-8845H-32G-1T), and I t
 
 Extract from `C:\Windows\System32\spool\drivers\color`.
 
-### Impulse
+### [Impulse](/impulse/)
 
-TODO
+Extracted in the same way as [shuhaowu/linux-thinkpad-speaker-improvements](https://github.com/shuhaowu/linux-thinkpad-speaker-improvements), not guaranteed and not tested.
 
 ## Flakes
 

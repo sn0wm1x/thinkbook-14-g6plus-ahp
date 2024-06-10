@@ -10,7 +10,7 @@ Extract from `C:\Windows\System32\spool\drivers\color`.
 
 ### [Impulse](/impulse/)
 
-Extracted in the same way as [shuhaowu/linux-thinkpad-speaker-improvements](https://github.com/shuhaowu/linux-thinkpad-speaker-improvements), not guaranteed and not tested.
+Obtained in the same way as [shuhaowu/linux-thinkpad-speaker-improvements](https://github.com/shuhaowu/linux-thinkpad-speaker-improvements), no warranty and not tested.
 
 ## Flakes
 
